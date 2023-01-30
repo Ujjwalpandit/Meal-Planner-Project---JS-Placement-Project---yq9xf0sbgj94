@@ -294,3 +294,4 @@ function createListForMeal(arr, ingDiv, id, text, obj) {
 genrateBtn.addEventListener("click", takeTheValues);
 
 
+
