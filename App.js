@@ -22,8 +22,8 @@ const ingredientContainer = document.querySelector(".ingredientContainer");
 
 const url = {
   base: "https://api.spoonacular.com/mealplanner/generate",
-  apiKey: "951ad27fb20b4179af69991a03acd01d",
-  apiKey2: "328df7057dd8498fbca288d49e2b8bb6"
+  apiKey: "25ee1bd04dde416b9b53e84ccc9d13cf",
+ // apiKey2: "328df7057dd8498fbca288d49e2b8bb6"
 };
 
 const imageUrl = {
